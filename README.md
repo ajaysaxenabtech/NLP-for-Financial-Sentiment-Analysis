@@ -63,4 +63,4 @@ We welcome contributions! Feel free to **fork the repository**, create a **new b
 This project is licensed under the **MIT License**.
 
 ## 📩 Contact
-For questions or collaborations, reach out via **your_email@example.com** or connect on **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile).
+For questions or collaborations, reach out via ajay.saxena.mtech.com or connect on LinkedIn: ajaysaxena.
